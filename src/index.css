@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.top-issues {
+  padding: 1.7vh 5vw;
+  background-color: #fff;
+  border: .02vw solid #fafafa;
+  box-shadow: 1px 1px 20px -19px black;
+}
+
+.top-issues:hover {
+  cursor: pointer;
+}
